@@ -1,4 +1,4 @@
-![Lifestyle Analyzer](https://github.com/user-attachments/assets/75fcf518-fc1c-42a4-a7f8-173fcb02c21f)
+![Lifestyle Analyzer](https://github.com/user-attachments/assets/43a1313b-bcd9-443c-b41d-d6e91952ac05)
 
 > Analyze your lifestyle to find the optimal location to live your life.
 
